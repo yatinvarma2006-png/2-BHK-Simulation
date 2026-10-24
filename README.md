@@ -25,7 +25,7 @@ The project aims to explore how networking and IoT technologies can be used to b
 
 | File | Description |
 |---|---|
-| `Smart_2BHK_Home (1).pkt` | Cisco Packet Tracer simulation file |
+| `Smart 2BHK Home Automation.pkt` | Cisco Packet Tracer simulation file |
 
 ## 🚀 How to Run
 
